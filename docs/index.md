@@ -1,8 +1,8 @@
-# Welcome to MkDocs
+# Welcome to Benji Docs!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+You will find everything you need to know about the minecraft server here.
 
-## Commands
+## Installation
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
