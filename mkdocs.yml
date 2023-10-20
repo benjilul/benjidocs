@@ -2,12 +2,16 @@ site_name: Benji Docs
 theme: 
   name: material
   language: en
+  plugins:
+   - search
   features:
-    - navigation.tabs
-    - navigation.sections
     - toc.integrate
     - navigation.top
+    - navigation.tracking
+    - navigation.path
+    - navigation.indexes
     - search.suggest
+    - navigation.footer
     - search.highlight
     - content.tabs.link
     - content.code.annotation

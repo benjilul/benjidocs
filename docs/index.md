@@ -1,8 +1,13 @@
-# Welcome to Benji Docs!
+# Introduction
 
-You will find everything you need to know about the minecraft server here.
+<div style="border: 5px solid  #7f58a7; border-radius: 4px;">
+<p align="center">Welcome to the Minecraft modpack documentation!<br/>
+You will find anything and everything you need to know here.
+</p>
+<h5 align="center"> Something missing? Let me know in the <a href="https://discord.gg/FhHhzC9SWc" target="_blank">Discord</a>.</h5>
+</div>
 
-## Installation
+## Test
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
