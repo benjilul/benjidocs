@@ -8,6 +8,8 @@
 
 Ad Astra! (translation: "To the Stars!") is a space mod for Fabric and Forge with a focus on technology, travel and exploration. We've got everything you need to become an astronaut: rockets, space suits, space stations and machines. Why not take a stroll on the Moon? Build a self-sustaining bunker on Mars? Go mining on Venus? The entire Solar System, better yet, Milky Way, is at your disposal!
 
+## Features
+
    - Five celestial bodies: The Moon, Mars, Venus, Mercury and Glacio, in two different solar systems. Each planet expresses a distinctive flair, with specific mobs and unique materials.
    - Vehicles: Four rocket tiers for interplanetary travel and a rover for traversing the rough, alien terrain ahead.
    - Technology: Standard processing machines and generators, along with oxygen generation and distribution, fuel refining, water pumping, cable, fluid pipes and a rocket workbench.
