@@ -2,11 +2,11 @@
 
 ## Features
 
-    ![](https://i.imgur.com/I6zEXw9.png)
+![](https://i.imgur.com/I6zEXw9.png)
 
-    ![](https://i.imgur.com/JbWCjLK.png)
+![](https://i.imgur.com/JbWCjLK.png)
 
-    ![](https://i.imgur.com/A031m8M.png)
+![](https://i.imgur.com/A031m8M.png)
 
 <img src="https://i.imgur.com/mSp133m.gif" width="1280px" />
 
