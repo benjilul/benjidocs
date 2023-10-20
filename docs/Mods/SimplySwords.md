@@ -1,1 +1,1 @@
-# Simply Swords
+# <b>Simply Swords</b>

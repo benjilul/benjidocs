@@ -1,1 +1,1 @@
-# Zoomify
+# <b>Zoomify</b>

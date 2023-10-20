@@ -43,7 +43,8 @@ Please first select your desired language, then hit "next".
 <img src="/images/select-language.png" alt="MultiMC download" style="border: 3px solid  #7f58a7;" width="800">
 </p>
 
-MultiMC should automatically find your java folder, but if it doesn't you will have to click "Browse" and find it.
+MultiMC should automatically find your java folder, but if it doesn't you will have to click "Browse" and find it. The java version **doesn't** need to match as seen below but 1.20 
+does require a minimum of `Java 17`. <br/><br/>Download [Java 17](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) or [Java 21](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) for windows.
 
 If you are unsure where your java folder is stored please try looking in the default folder:
 
@@ -52,8 +53,10 @@ C:/Program Files/Java
 ```
 If you are still unable to find your java folder please refer to [this page.]()
 
+Please also change the `Maximum memory allocation` to at least `4096 MiB`.
+
 <p align="center">
-<img src="/images/select-java-version.png" alt="MultiMC download" style="border: 3px solid  #7f58a7;" width="800">
+<img src="/images/new-java-version.png" alt="MultiMC download" style="border: 3px solid  #7f58a7;" width="800">
 </p>
 
 Congratulations you have successfully downloaded and installed MultiMC!

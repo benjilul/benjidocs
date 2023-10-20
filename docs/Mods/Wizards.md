@@ -1,1 +1,1 @@
-# Wizards
+# <b>Wizards</b>

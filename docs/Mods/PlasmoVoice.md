@@ -1,4 +1,4 @@
-# Plasmo Voice
+# <b>Plasmo Voice</b>
 
 ## Features
 

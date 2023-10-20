@@ -1,1 +1,1 @@
-# Trim Effects
+# <b>Trim Effects</b>
