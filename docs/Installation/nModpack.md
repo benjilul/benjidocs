@@ -8,6 +8,10 @@ First download the modpack .zip file [here](https://drive.google.com/file/d/1r_Q
 <img src="/images/googledownload.png" alt="MultiMC download" style="border: 3px solid  #7f58a7;" width="800">
 </p>
 
+<p align="center">
+<img src="/images/googleareyousure.png" alt="MultiMC download" style="border: 3px solid  #7f58a7;" width="800">
+</p>
+
 
 ##### Step 2. Install the modpack to MultiMC
 
