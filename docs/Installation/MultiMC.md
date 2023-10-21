@@ -100,8 +100,4 @@ After entering **YOUR** linking code, you will be asked to log into your Microso
 <img src="/images/microsoft-done.png" alt="MultiMC account set up" style="border: 3px solid  #7f58a7;" width="800">
 </p>
 
-Congratulations you have successfully logged into MultiMC!
-
-## <h1 style="color: black;"><b>Modpack</b></h1>
-
-##### Step 1. Download Modpack zip file
+Congratulations you have successfully logged into MultiMC! You can now head on over to [`#Modpack`](../nModpack/) to install the modpack and hop into the server!
