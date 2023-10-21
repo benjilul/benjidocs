@@ -1,4 +1,76 @@
 :root {
     --md-primary-fg-color: #7f58a7;
     --md-accent-fg-color: #212121;
+    --md-admonition-icon--weapon: url(../images/icons/swordicon.webp);
+    --md-admonition-icon--warning: url(../images/icons/warning.svg);
+    --md-admonition-icon--trim: url(../images/icons/potion.png);
+    --md-admonition-icon--boss: url(../images/icons/bossicon.png);
+}
+
+/* WEAPONS */
+
+.md-typeset .admonition.weapons,
+.md-typeset details.weapons {
+  border-color: #7f58a7;
+}
+.md-typeset .weapons > .admonition-title,
+.md-typeset .weapons > summary {
+  background-color: rgba(155, 43, 155, 0.1);
+}
+.md-typeset .weapons > .admonition-title::before,
+.md-typeset .weapons > summary::before {
+  background-color: #7f58a7;
+  -webkit-mask-image: var(--md-admonition-icon--weapon);
+          mask-image: var(--md-admonition-icon--weapon);
+}
+
+/* WARNING */
+
+.md-typeset .admonition.benjiwarning,
+.md-typeset details.benjiwarning {
+  border-color: #FFB74D;
+}
+.md-typeset .benjiwarning > .admonition-title,
+.md-typeset .benjiwarning > summary {
+  background-color: rgba(233, 126, 55, 0.164);
+}
+.md-typeset .benjiwarning > .admonition-title::before,
+.md-typeset .benjiwarning > summary::before {
+  background-color: #FFB74D;
+  -webkit-mask-image: var(--md-admonition-icon--warning);
+          mask-image: var(--md-admonition-icon--warning);
+}
+
+/* POTION */
+
+.md-typeset .admonition.trim,
+.md-typeset details.trim {
+  border-color: #7f58a7;
+}
+.md-typeset .trim > .admonition-title,
+.md-typeset .trim > summary {
+    background-color: rgba(155, 43, 155, 0.1);
+}
+.md-typeset .trim > .admonition-title::before,
+.md-typeset .trim > summary::before {
+  background-color: #7f58a7;
+  -webkit-mask-image: var(--md-admonition-icon--trim);
+          mask-image: var(--md-admonition-icon--trim);
+}
+
+/* BOSS */
+
+.md-typeset .admonition.boss,
+.md-typeset details.boss {
+  border-color: #7f58a7;
+}
+.md-typeset .boss > .admonition-title,
+.md-typeset .boss > summary {
+    background-color: rgba(155, 43, 155, 0.1);
+}
+.md-typeset .boss > .admonition-title::before,
+.md-typeset .boss > summary::before {
+  background-color: #7f58a7;
+  -webkit-mask-image: var(--md-admonition-icon--boss);
+          mask-image: var(--md-admonition-icon--boss);
 }

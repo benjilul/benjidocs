@@ -1,5 +1,12 @@
 # <b>Cluttered</b>
 
+<details class="benjiwarning" open="">
+<summary>Page Still Under Construction</summary>
+<div align="center" style="font-size: large;">
+<h5>This page is currently unfinished and will be recieving updates soon.</h5>
+</div>
+</details>
+
 <p align="center">
 <img src="/images/Mod pictures/clutteredbanner.png" alt="Cluttered Banner" style="border: 3px solid  #7f58a7;" width="800">
 </p>

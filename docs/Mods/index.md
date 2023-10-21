@@ -277,9 +277,9 @@
   border: 2px solid  #212121;
   box-shadow: 0 0px 30px 0 rgba(0, 0, 0, 0.19);
   border-radius: 12px;">
-  <img src="../images/Mod Icons/villagersplus.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
-<h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./VillagersPlus/">Villagers Plus</a></a></b></h2>
-<p style="margin-top: 10px;">A villager extension mod, adding new villager types, trades and beautiful workstations.</p></p>
+  <img src="../images/Mod Icons/wwoo.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
+<h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./WWOO/">William Wythers' Overhauled Overworld</a></a></b></h2>
+<p style="margin-top: 10px;">This mod overhauls all vanilla biomes, with different sub biomes!</p></p>
 </div>
 
 <div class="col-md-4 col-morning" style="display: flex;
@@ -292,18 +292,6 @@
   <img src="../images/Mod Icons/wizards.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
 <h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./Wizards/">Wizards</a></a></b></h2>
 <p style="margin-top: 10px;">🧙🏻‍♂️ Destroy your enemies with Arcane, Fire and Frost magic</p></p>
-</div>
-
-<div class="col-md-4 col-morning" style="display: flex;
-  flex-direction: column;
-  padding: 20px;
-  min-height: 300px;
-  border: 2px solid  #212121;
-  box-shadow: 0 0px 30px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 12px;">
-  <img src="../images/Mod Icons/wwoo.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
-<h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./WWOO/">William Wythers' Overhauled Overworld</a></a></b></h2>
-<p style="margin-top: 10px;">This mod overhauls all vanilla biomes, with different sub biomes!</p></p>
 </div>
 
 <div class="col-md-4 col-morning" style="display: flex;
