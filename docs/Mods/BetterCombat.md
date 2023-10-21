@@ -17,7 +17,7 @@
 
 ## Features
 
-### Primary features
+##### Primary features
 - Weapons have combos (each attack in the combo can be different in many ways)
 - Better weapon idle and attack animations
 - Upswing weapon before hitting for natural look and feel
@@ -27,7 +27,7 @@
 - Bundled resources: weapon animations, weapon sounds, weapon attribute presets
 - Integrate any weapon from any mod by just creating data files
 
-### Auxiliary features
+##### Auxiliary features
 - Two-handed weapons ignore offhand slot
 - Attacking with dual wielded weapons (held weapons are used alternated, +20% attack speed while dual wielding)
 - Cancel attack during upswing (aka "feint") (Client configurable)
