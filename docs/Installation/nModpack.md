@@ -4,6 +4,11 @@
 
 First download the modpack .zip file [here](https://drive.google.com/file/d/1r_Qffxku7NNNfG72gpKEKp_2sW-dz_xy/view) and save it where you will remember as you will need it in the next steps.
 
+<p align="center">
+<img src="/images/googledownload.png" alt="MultiMC download" style="border: 3px solid  #7f58a7;" width="800">
+</p>
+
+
 ##### Step 2. Install the modpack to MultiMC
 
 Open MultiMC and click the `Add Instance` button in the top-left of the application.
