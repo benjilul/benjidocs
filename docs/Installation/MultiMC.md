@@ -17,7 +17,7 @@ Select the download for your operating system.
 <img src="/images/MultiMC-downloaded.png" alt="MultiMC download" style="border: 3px solid  #7f58a7;" width="800">
 </p>
 
-After downloading MultiMC you will need to extract the zip to your desired location. In this case we will be using the desktop.
+After downloading MultiMC you will need to extract the .zip to your desired location. In this case we will be using the desktop.
 
 <p align="center">
 <img src="/images/MultiMC-extract.png" alt="MultiMC download" style="border: 3px solid  #7f58a7;" width="800">
