@@ -85,6 +85,18 @@
   border: 2px solid  #212121;
   box-shadow: 0 0px 30px 0 rgba(0, 0, 0, 0.19);
   border-radius: 12px;">
+  <img src="../images/Mod Icons/cctweaked.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
+<h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./CCTweaked/">CC: Tweaked</a></b></h2>
+<p style="margin-top: 10px;">ComputerCraft fork adding programmable computers, turtles and more to Minecraft.</p>
+</div>
+
+<div class="col-md-4 col-morning" style="display: flex;
+  flex-direction: column;
+  padding: 20px;
+  min-height: 300px;
+  border: 2px solid  #212121;
+  box-shadow: 0 0px 30px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 12px;">
   <img src="../images/Mod Icons/chiselandbits.png" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
 <h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./ChiselAndbits/">Chisel & Bits</a></b></h2>
 <p style="margin-top: 10px;">Turn Blocks Into Small Bits With Chisels; Build All The Things</p>
