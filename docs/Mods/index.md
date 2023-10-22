@@ -253,6 +253,18 @@
   border: 2px solid  #212121;
   box-shadow: 0 0px 30px 0 rgba(0, 0, 0, 0.19);
   border-radius: 12px;">
+  <img src="../images/Mod Icons/terralithicon.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
+<h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./WWOO/">Terralith</a></a></b></h2>
+<p style="margin-top: 10px;">Terralith takes Minecraft's 1.18 massive world generation overhaul, and turns it up to eleven.</p></p>
+</div>
+
+<div class="col-md-4 col-morning" style="display: flex;
+  flex-direction: column;
+  padding: 20px;
+  min-height: 300px;
+  border: 2px solid  #212121;
+  box-shadow: 0 0px 30px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 12px;">
   <img src="../images/Mod Icons/townsandtowers.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
 <h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./TownsAndTowers/">Towns and Towers</a></a></b></h2>
 <p style="margin-top: 10px;">Spice up your world with new villages, pillager outposts, and even new ships!</p></p>
@@ -280,18 +292,6 @@
   <img src="../images/Mod Icons/ultris.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
 <h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./Ultris/">Ultris</a></a></b></h2>
 <p style="margin-top: 10px;">Explore 8 new and exciting bosses to take on across your world, with new structures, items, and stories for you to unravel.</p></p>
-</div>
-
-<div class="col-md-4 col-morning" style="display: flex;
-  flex-direction: column;
-  padding: 20px;
-  min-height: 300px;
-  border: 2px solid  #212121;
-  box-shadow: 0 0px 30px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 12px;">
-  <img src="../images/Mod Icons/wwoo.webp" style="border-radius: 10px; max-width: 100px; max-height: 100px; border: 2px solid  #212121;"></img>
-<h2 style="font-weight: 900; padding-top: 15px; margin: 0px;"><b><a href="./WWOO/">William Wythers' Overhauled Overworld</a></a></b></h2>
-<p style="margin-top: 10px;">This mod overhauls all vanilla biomes, with different sub biomes!</p></p>
 </div>
 
 <div class="col-md-4 col-morning" style="display: flex;
